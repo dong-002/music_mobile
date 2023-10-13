@@ -2,7 +2,7 @@
 
 这是一个模仿网易云的移动端项目，前端主要利用vue+vant+vuex技术，后端是利用了
 
-[网易云NodeJS版API]: https://neteasecloudmusicapi.js.org/
+[网易云NodeJS版API]: https://neteasecloudmusicapi.js.org
 
 ，目前只是实现了推荐歌单、歌单播放、登录、歌手或音乐的搜索功能。
 
